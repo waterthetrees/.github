@@ -17,8 +17,8 @@ We are interested in continuous massive tree planting events to help sequester c
 
 ✅ [Testing](https://github.com/waterthetrees/waterthetrees/wiki/Testing)
 
-🧤 [Weekly Meeting Notes](https://github.com/waterthetrees/waterthetrees/wiki/Weekly-Meeting)
-
 🐸 [Join us on Slack](https://sfbrigade.slack.com/archives/C010EGACUTU)
 
-Come to a tree meeting! Every Wednesday at 7:00pm PST. We post a zoom link in our slack channel on Wednesdays.
+🧤 Come to a tree meeting! Every Wednesday at 7:00pm PST. We post a zoom link in our slack channel on Wednesdays.
+
+🌲 [Weekly Meeting Notes](https://github.com/waterthetrees/waterthetrees/wiki/Weekly-Meeting)
