@@ -1,4 +1,4 @@
-# [Water The Trees](https://waterthetrees.com)
+# 💚 [Water The Trees](https://waterthetrees.com)
 
 🌳 [Water The Trees](https://waterthetrees.com) is a platform that crowd sources tree planting and maintenance.
 We are an open source project run by tree planting volunteers and [Code for America San Francisco chapter](https://www.codeforsanfrancisco.org/) volunteer software engineers.
@@ -16,5 +16,3 @@ We are interested in continuous massive tree planting events to help sequester c
 🧤 [Weekly Meeting Notes](https://github.com/waterthetrees/waterthetrees/wiki/Weekly-Meeting)
 
 🐸 [Join us on Slack](https://sfbrigade.slack.com/archives/C010EGACUTU)
-
-💚 We love trees
