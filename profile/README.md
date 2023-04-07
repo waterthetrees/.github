@@ -11,7 +11,7 @@ We are interested in continuous massive tree planting events to help sequester c
 
 🧩 [Code Conventions](https://github.com/waterthetrees/waterthetrees/wiki/Code-Conventions)
 
-💚 [Help Wanted Project Board](https://github.com/orgs/waterthetrees/projects/2/views/7)
+🦖 [Help Wanted Project Board](https://github.com/orgs/waterthetrees/projects/2/views/7)
 
 🦚 [Project Issues List](https://github.com/orgs/waterthetrees/projects/2/views/1)
 
@@ -24,3 +24,5 @@ We are interested in continuous massive tree planting events to help sequester c
 🌲 [Weekly Meeting Notes](https://github.com/waterthetrees/waterthetrees/wiki/Weekly-Meeting)
 
 🤝 We need outreach help to contact cities and a data person to clean up the tree data
+
+💚 [DONATE to Water the Trees](https://opencollective.com/waterthetrees/donate)
