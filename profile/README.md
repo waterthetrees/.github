@@ -24,5 +24,3 @@ We are interested in continuous massive tree planting events to help sequester c
 🌲 [Weekly Meeting Notes](https://github.com/waterthetrees/waterthetrees/wiki/Weekly-Meeting)
 
 🤝 We need outreach help to contact cities and a data person to clean up the tree data
-
-💚 [DONATE to Water the Trees](https://opencollective.com/waterthetrees/donate)
